@@ -27,8 +27,8 @@ My challenge was to build a social links profile page and make it look as close 
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL ]()
+- [Solution URL](https://github.com/smmu94/social-links-profile-main)
+- [Live Site URL ](https://smmu94.github.io/social-links-profile-main/)
 
 ## My process
 
